@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Learning/mlops/chest_dieses/Chest-Disease-Classification-from-Chest-CT-Scan-Image-main-20241112T054341Z-001/Chest-Disease-Classification-from-Chest-CT-Scan-Image-main/research/mlruns/0/f381381a420a4c50bb83855cf7f5493b/artifacts
+end_time: 1731403684447
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f381381a420a4c50bb83855cf7f5493b
+run_name: glamorous-shoat-525
+run_uuid: f381381a420a4c50bb83855cf7f5493b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731403677980
+status: 4
+tags: []
+user_id: Mandar Kulkarni

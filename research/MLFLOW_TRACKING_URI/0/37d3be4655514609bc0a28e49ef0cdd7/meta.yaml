@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Learning/mlops/chest_dieses/Chest-Disease-Classification-from-Chest-CT-Scan-Image-main-20241112T054341Z-001/Chest-Disease-Classification-from-Chest-CT-Scan-Image-main/research/MLFLOW_TRACKING_URI/0/37d3be4655514609bc0a28e49ef0cdd7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37d3be4655514609bc0a28e49ef0cdd7
+run_name: rare-cub-390
+run_uuid: 37d3be4655514609bc0a28e49ef0cdd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731409116022
+status: 1
+tags: []
+user_id: Mandar Kulkarni
