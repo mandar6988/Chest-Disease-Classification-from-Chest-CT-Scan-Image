@@ -14,9 +14,7 @@
 
 
 
-## Live matarials docs
 
-[link](https://docs.google.com/document/d/1UFiHnyKRqgx8Lodsvdzu58LbVjdWHNf-uab2WmhE0A4/edit?usp=sharing)
 
 
 ## Git commands
@@ -47,8 +45,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-import dagshub
-dagshub.init(repo_owner='mandar6988', repo_name='mlflow_experiments', mlflow=True)
+
 
 <!-- import mlflow
 with mlflow.start_run():
@@ -56,20 +53,20 @@ with mlflow.start_run():
   mlflow.log_metric('metric name', 1) -->
 
 ```bash
-MLFLOW_TRACKING_URI=https://dagshub.com/mandar6988/mlflow_experiments.mlflow /
-MLFLOW_TRACKING_USERNAME=mandar6988 /
-MLFLOW_TRACKING_PASSWORD=81b8e17e1b4b4ae450196f6acd3d229ab74d7592 /
+MLFLOW_TRACKING_URI=htt
+MLFLOW_TRACKING_USERNAME=man
+MLFLOW_TRACKING_PASSWORD=8
 python script.py
 ```
 
 ```bash
-export MLFLOW_TRACKING_URI=https://dagshub.com/mandar6988/mlflow_experiments.mlflow
-export MLFLOW_TRACKING_USERNAME=mandar6988
-export MLFLOW_TRACKING_PASSWORD=81b8e17e1b4b4ae450196f6acd3d229ab74d7592
+export MLFLOW_TRACKING_URI=
+export MLFLOW_TRACKING_USERNAME=m
+export MLFLOW_TRACKING_PASSWORD=81b8e1
 ```
 
 ```bash
-os.environ['MLFLOW_TRACKING_URI'] = 'MLFLOW_TRACKING_URI'
-os.environ['MLFLOW_TRACKING_USERNAME'] = 'mandar6988'
-os.environ['MLFLOW_TRACKING_PASSWORD'] = '81b8e17e1b4b4ae450196f6acd3d229ab74d7592'
+os.environ['MLFLOW_TRACKING_URI'] = 
+os.environ['MLFLOW_TRACKING_USERNAME'] = 
+os.environ['MLFLOW_TRACKING_PASSWORD'] = 
 ```
