@@ -60,13 +60,13 @@ python script.py
 ```
 
 ```bash
-export MLFLOW_TRACKING_URI=
-export MLFLOW_TRACKING_USERNAME=m
-export MLFLOW_TRACKING_PASSWORD=81b8e1
+export MLFLOW_TRACKING_URI=https://dagshub.com/mandar6988/Chest-Disease-Classification-from-Chest-CT-Scan-Image.mlflow
+export MLFLOW_TRACKING_USERNAME=mandar6988
+export MLFLOW_TRACKING_PASSWORD=81b8e17e1b4b4ae450196f6acd3d229ab74d7592
 ```
 
 ```bash
-os.environ['MLFLOW_TRACKING_URI'] = 
-os.environ['MLFLOW_TRACKING_USERNAME'] = 
-os.environ['MLFLOW_TRACKING_PASSWORD'] = 
+os.environ['MLFLOW_TRACKING_URI'] = 'https://dagshub.com/mandar6988/Chest-Disease-Classification-from-Chest-CT-Scan-Image.mlflow'
+os.environ['MLFLOW_TRACKING_USERNAME'] = 'mandar6988'
+os.environ['MLFLOW_TRACKING_PASSWORD'] = '81b8e17e1b4b4ae450196f6acd3d229ab74d7592'
 ```
